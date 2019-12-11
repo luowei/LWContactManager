@@ -1,0 +1,6 @@
+framework module LWContactManager {
+  umbrella header "LWContactManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
