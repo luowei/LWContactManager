@@ -1,9 +1,9 @@
 {
   "name": "LWContactManager",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of LWContactManager.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/luowei/LWContactManager",
+  "homepage": "https://gitlab.com/ioslibraries1/lwcontactmanager.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,13 +12,13 @@
     "luowei": "luowei@wodedata.com"
   },
   "source": {
-    "git": "https://github.com/luowei/LWContactManager.git",
-    "tag": "0.1.0"
+    "git": "https://gitlab.com/ioslibraries1/lwcontactmanager.git"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "LWContactManager/Classes/**/*",
+  "public_header_files": "LWContactManager/Classes/**/*.h",
   "dependencies": {
     "APAddressBook": [
 

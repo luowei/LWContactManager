@@ -2,7 +2,7 @@ PODS:
   - APAddressBook (0.3.2):
     - APAddressBook/Core (= 0.3.2)
   - APAddressBook/Core (0.3.2)
-  - LWContactManager (0.1.0):
+  - LWContactManager (1.0.0):
     - APAddressBook
 
 DEPENDENCIES:
@@ -19,8 +19,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   APAddressBook: e68ecaf95f2c323b625ae585a0d25fe505291286
-  LWContactManager: 5daba50d33107483106518b259236644ca16d092
+  LWContactManager: efb062be1263c66099ae9a2b8f1d6b580404c618
 
 PODFILE CHECKSUM: d336ff9af80b104414c62708f5b04ef2f6ddb2b9
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.8.4
