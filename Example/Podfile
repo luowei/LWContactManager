@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LWContactManager_Example' do
+  pod 'LWContactManager', :path => '../'
+
+  target 'LWContactManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
