@@ -21,11 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://gitlab.com/ioslibraries1/lwcontactmanager.git'
+  s.homepage         = 'https://github.com/luowei/LWContactManager.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luowei' => 'luowei@wodedata.com' }
-  s.source           = { :git => 'https://gitlab.com/ioslibraries1/lwcontactmanager.git' }
+  s.source           = { :git => 'https://github.com/luowei/LWContactManager.git'}
+  # s.source           = { :git => 'https://gitlab.com/ioslibraries1/lwcontactmanager.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
