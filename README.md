@@ -22,7 +22,7 @@ pod 'LWContactManager'
 
 **Carthage**
 ```ruby
-github "luowei/LWColorPicker"
+github "luowei/LWContactManager"
 ```
 
 ## Usage
