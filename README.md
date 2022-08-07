@@ -9,6 +9,33 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```Objective-C
+-(LWAddressBookService *)addressBookService{
+    if(!_addressBookService){
+        _addressBookService = [[LWAddressBookService alloc] init];
+    }
+    return _addressBookService;
+}
+
+//联系人列表
+- (void)reloadSearchAddressBook {
+    __weak typeof(self) weakSelf = self;
+    [self.addressBookService requestAccess:^(BOOL granted, NSError *error) {
+        __strong typeof(self) strongSelf = weakSelf;
+        if (granted) {
+            NSString *searchText = [strongSelf searchText];
+            [strongSelf.addressBookService
+                    loadContactsWithSearchText:searchText
+                                  successBlock:^(NSArray<APContact *> *contacts, NSError *err) {
+                                      [strongSelf setContacts:contacts];
+                                      [strongSelf reloadData];
+                                      [strongSelf.collectionViewLayout invalidateLayout];
+                                  }];
+        }
+    }];
+}
+```
+
 ## Requirements
 
 ## Installation
