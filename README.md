@@ -5,13 +5,53 @@
 [![License](https://img.shields.io/cocoapods/l/LWContactManager.svg?style=flat)](https://cocoapods.org/pods/LWContactManager)
 [![Platform](https://img.shields.io/cocoapods/p/LWContactManager.svg?style=flat)](https://cocoapods.org/pods/LWContactManager)
 
-[中文文档](README_ZH.md)
+[English](./README.md) | [中文版](./README_ZH.md)
+
+---
+
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+  - [CocoaPods](#cocoapods-recommended)
+  - [Carthage](#carthage)
+  - [Manual Installation](#manual-installation)
+  - [Privacy Configuration](#privacy-configuration)
+- [Usage](#usage)
+  - [Quick Start](#quick-start)
+  - [Basic Setup](#basic-setup)
+  - [Requesting Contact Access](#requesting-contact-access)
+  - [Loading Contacts](#loading-all-contacts)
+  - [Searching Contacts](#searching-contacts)
+- [API Documentation](#api-documentation)
+- [Advanced Features](#advanced-features)
+- [Example Project](#example-project)
+- [Best Practices](#best-practices)
+- [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [Author](#author)
+- [License](#license)
+
+---
 
 ## Description
 
 LWContactManager is a comprehensive and powerful iOS contacts management library designed to simplify access to the device's address book. Built on top of the robust APAddressBook framework, it provides an elegant, easy-to-use API for all your contact management needs.
 
 Whether you need to load all contacts, search for specific entries, or handle complex permission scenarios, LWContactManager handles the heavy lifting for you. It features built-in permission management, asynchronous operations, intelligent search capabilities, and localization support including Chinese pinyin sorting. The library is production-ready and optimized for performance with lazy loading and efficient memory management.
+
+### Why Choose LWContactManager?
+
+- **Production-Ready**: Battle-tested and stable, ready for production applications
+- **Developer-Friendly**: Clean, intuitive API that reduces boilerplate code
+- **Performance-Optimized**: Efficient memory management and asynchronous operations
+- **Localization Support**: Native Chinese pinyin sorting for better UX
+- **Comprehensive**: Access to all contact fields including names, phones, emails, and addresses
+- **Well-Documented**: Extensive documentation with practical examples and best practices
 
 ## Features
 
@@ -1284,9 +1324,18 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgments
 
-- Built on top of [APAddressBook](https://github.com/Alterplay/APAddressBook)
+- Built on top of [APAddressBook](https://github.com/Alterplay/APAddressBook) by Alterplay
 - Thanks to all contributors and users of this library
+- Inspired by the iOS development community's need for simplified contact management
 
 ---
 
-**Made with care for the iOS development community**
+<div align="center">
+
+**LWContactManager** - Making iOS contact management simple and elegant
+
+Made with ❤️ for the iOS development community
+
+[⬆ Back to Top](#lwcontactmanager)
+
+</div>
