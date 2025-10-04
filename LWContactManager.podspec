@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'LWContactManager/Classes/**/*'
+  s.exclude_files = 'LWContactManager/Swift/**/*.swift'
   
   # s.resource_bundles = {
   #   'LWContactManager' => ['LWContactManager/Assets/*.png']
