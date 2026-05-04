@@ -1,5 +1,12 @@
 # LWContactManager
 
+
+## graphify Knowledge Graph
+
+- Interactive graph: https://luowei.github.io/LWContactManager/
+- Report: https://luowei.github.io/LWContactManager/GRAPH_REPORT.md
+- Graph data: https://luowei.github.io/LWContactManager/graph.json
+
 [![CI Status](https://img.shields.io/travis/luowei/LWContactManager.svg?style=flat)](https://travis-ci.org/luowei/LWContactManager)
 [![Version](https://img.shields.io/cocoapods/v/LWContactManager.svg?style=flat)](https://cocoapods.org/pods/LWContactManager)
 [![License](https://img.shields.io/cocoapods/l/LWContactManager.svg?style=flat)](https://cocoapods.org/pods/LWContactManager)
