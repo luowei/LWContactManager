@@ -1,0 +1,1803 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Tests.m",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L1",
+      "id": "example_tests_tests_m",
+      "community": 8,
+      "norm_label": "tests.m"
+    },
+    {
+      "label": "Tests",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "id": "tests_tests_tests",
+      "community": 8,
+      "norm_label": "tests"
+    },
+    {
+      "label": "-setUp",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "id": "tests_tests_tests_setup",
+      "community": 8,
+      "norm_label": "-setup"
+    },
+    {
+      "label": "-tearDown",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "id": "tests_tests_tests_teardown",
+      "community": 8,
+      "norm_label": "-teardown"
+    },
+    {
+      "label": "-testExample",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "id": "tests_tests_tests_testexample",
+      "community": 8,
+      "norm_label": "-testexample"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwcontactmanager_lwviewcontroller_h",
+      "community": 11,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwcontactmanager_lwappdelegate_h",
+      "community": 12,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/main.m",
+      "source_location": "L1",
+      "id": "example_lwcontactmanager_main_m",
+      "community": 13,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwcontactmanager_lwappdelegate_m",
+      "community": 4,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "community": 4,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 4,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L19",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 4,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L25",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 4,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L31",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 4,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 4,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 4,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwcontactmanager_lwviewcontroller_m",
+      "community": 6,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L13",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "community": 6,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L21",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 6,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-viewDidAppear",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L26",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller_viewdidappear",
+      "community": 6,
+      "norm_label": "-viewdidappear"
+    },
+    {
+      "label": "-addressBookService",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L33",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller_addressbookservice",
+      "community": 6,
+      "norm_label": "-addressbookservice"
+    },
+    {
+      "label": "-reloadSearchAddressBook",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L41",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller_reloadsearchaddressbook",
+      "community": 6,
+      "norm_label": "-reloadsearchaddressbook"
+    },
+    {
+      "label": "-searchText",
+      "file_type": "code",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L59",
+      "id": "lwcontactmanager_lwviewcontroller_lwviewcontroller_searchtext",
+      "community": 6,
+      "norm_label": "-searchtext"
+    },
+    {
+      "label": "ExampleUsage.swift",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L1",
+      "id": "swift_exampleusage_swift",
+      "community": 0,
+      "norm_label": "exampleusage.swift"
+    },
+    {
+      "label": "ContactsViewController",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L13",
+      "id": "swift_exampleusage_contactsviewcontroller",
+      "community": 0,
+      "norm_label": "contactsviewcontroller"
+    },
+    {
+      "label": ".loadContacts()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L18",
+      "id": "swift_exampleusage_contactsviewcontroller_loadcontacts",
+      "community": 0,
+      "norm_label": ".loadcontacts()"
+    },
+    {
+      "label": "LegacyContactsViewController",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L43",
+      "id": "swift_exampleusage_legacycontactsviewcontroller",
+      "community": 0,
+      "norm_label": "legacycontactsviewcontroller"
+    },
+    {
+      "label": ".loadContacts()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L47",
+      "id": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "community": 0,
+      "norm_label": ".loadcontacts()"
+    },
+    {
+      "label": ".searchContacts()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L67",
+      "id": "swift_exampleusage_legacycontactsviewcontroller_searchcontacts",
+      "community": 0,
+      "norm_label": ".searchcontacts()"
+    },
+    {
+      "label": "ContactListView",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L81",
+      "id": "swift_exampleusage_contactlistview",
+      "community": 3,
+      "norm_label": "contactlistview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 3,
+      "norm_label": "view"
+    },
+    {
+      "label": "MyView",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L115",
+      "id": "swift_exampleusage_myview",
+      "community": 3,
+      "norm_label": "myview"
+    },
+    {
+      "label": "ChineseContactsViewController",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L145",
+      "id": "swift_exampleusage_chinesecontactsviewcontroller",
+      "community": 0,
+      "norm_label": "chinesecontactsviewcontroller"
+    },
+    {
+      "label": ".loadChineseContacts()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L151",
+      "id": "swift_exampleusage_chinesecontactsviewcontroller_loadchinesecontacts",
+      "community": 0,
+      "norm_label": ".loadchinesecontacts()"
+    },
+    {
+      "label": "printContactDetails()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L168",
+      "id": "swift_exampleusage_printcontactdetails",
+      "community": 0,
+      "norm_label": "printcontactdetails()"
+    },
+    {
+      "label": "CustomFilterViewController",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L186",
+      "id": "swift_exampleusage_customfilterviewcontroller",
+      "community": 0,
+      "norm_label": "customfilterviewcontroller"
+    },
+    {
+      "label": ".loadContactsWithAreaCode()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L191",
+      "id": "swift_exampleusage_customfilterviewcontroller_loadcontactswithareacode",
+      "community": 0,
+      "norm_label": ".loadcontactswithareacode()"
+    },
+    {
+      "label": "demonstratePinyinHelper()",
+      "file_type": "code",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L212",
+      "id": "swift_exampleusage_demonstratepinyinhelper",
+      "community": 0,
+      "norm_label": "demonstratepinyinhelper()"
+    },
+    {
+      "label": "Package.swift",
+      "file_type": "code",
+      "source_file": "Swift/Package.swift",
+      "source_location": "L1",
+      "id": "swift_package_swift",
+      "community": 14,
+      "norm_label": "package.swift"
+    },
+    {
+      "label": "PinyinHelper.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_pinyinhelper_swift",
+      "community": 9,
+      "norm_label": "pinyinhelper.swift"
+    },
+    {
+      "label": "PinyinHelper",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L12",
+      "id": "lwcontactmanager_pinyinhelper_pinyinhelper",
+      "community": 9,
+      "norm_label": "pinyinhelper"
+    },
+    {
+      "label": ".pinyinFirstLetter()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L17",
+      "id": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletter",
+      "community": 9,
+      "norm_label": ".pinyinfirstletter()"
+    },
+    {
+      "label": ".pinyinFirstLetterFromC()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L48",
+      "id": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletterfromc",
+      "community": 9,
+      "norm_label": ".pinyinfirstletterfromc()"
+    },
+    {
+      "label": "LWContactService.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactservice_swift",
+      "community": 7,
+      "norm_label": "lwcontactservice.swift"
+    },
+    {
+      "label": "LWContactService",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L13",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "community": 7,
+      "norm_label": "lwcontactservice"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L20",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice_init",
+      "community": 7,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".requestAccess()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L31",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice_requestaccess",
+      "community": 7,
+      "norm_label": ".requestaccess()"
+    },
+    {
+      "label": ".loadContacts()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L68",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice_loadcontacts",
+      "community": 7,
+      "norm_label": ".loadcontacts()"
+    },
+    {
+      "label": ".matchesSearchCriteria()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L151",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice_matchessearchcriteria",
+      "community": 7,
+      "norm_label": ".matchessearchcriteria()"
+    },
+    {
+      "label": ".sortContacts()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L175",
+      "id": "lwcontactmanager_lwcontactservice_lwcontactservice_sortcontacts",
+      "community": 7,
+      "norm_label": ".sortcontacts()"
+    },
+    {
+      "label": "LWContactManager.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactManager.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmanager_swift",
+      "community": 10,
+      "norm_label": "lwcontactmanager.swift"
+    },
+    {
+      "label": "LWContactManager",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactManager.swift",
+      "source_location": "L12",
+      "id": "lwcontactmanager_lwcontactmanager_lwcontactmanager",
+      "community": 10,
+      "norm_label": "lwcontactmanager"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactManager.swift",
+      "source_location": "L25",
+      "id": "lwcontactmanager_lwcontactmanager_lwcontactmanager_init",
+      "community": 10,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWContactViewModel.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactviewmodel_swift",
+      "community": 2,
+      "norm_label": "lwcontactviewmodel.swift"
+    },
+    {
+      "label": "LWContactViewModel",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L14",
+      "id": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "community": 2,
+      "norm_label": "lwcontactviewmodel"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 2,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": "AuthorizationStatus",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L27",
+      "id": "lwcontactmanager_lwcontactviewmodel_authorizationstatus",
+      "community": 2,
+      "norm_label": "authorizationstatus"
+    },
+    {
+      "label": "notDetermined",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L28",
+      "id": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_notdetermined",
+      "community": 2,
+      "norm_label": "notdetermined"
+    },
+    {
+      "label": "authorized",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L29",
+      "id": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_authorized",
+      "community": 2,
+      "norm_label": "authorized"
+    },
+    {
+      "label": "denied",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L30",
+      "id": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_denied",
+      "community": 2,
+      "norm_label": "denied"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L33",
+      "id": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".requestAccess()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L49",
+      "id": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_requestaccess",
+      "community": 2,
+      "norm_label": ".requestaccess()"
+    },
+    {
+      "label": ".loadContacts()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L72",
+      "id": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_loadcontacts",
+      "community": 2,
+      "norm_label": ".loadcontacts()"
+    },
+    {
+      "label": ".refresh()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L89",
+      "id": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_refresh",
+      "community": 2,
+      "norm_label": ".refresh()"
+    },
+    {
+      "label": "LWContactModel.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmodel_swift",
+      "community": 1,
+      "norm_label": "lwcontactmodel.swift"
+    },
+    {
+      "label": "LWContact",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L13",
+      "id": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "community": 1,
+      "norm_label": "lwcontact"
+    },
+    {
+      "label": "Identifiable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "identifiable",
+      "community": 1,
+      "norm_label": "identifiable"
+    },
+    {
+      "label": "Hashable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "hashable",
+      "community": 1,
+      "norm_label": "hashable"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L28",
+      "id": "lwcontactmanager_lwcontactmodel_lwcontact_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".hash()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L36",
+      "id": "lwcontactmanager_lwcontactmodel_lwcontact_hash",
+      "community": 1,
+      "norm_label": ".hash()"
+    },
+    {
+      "label": "LWPhoneNumber",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L46",
+      "id": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "community": 1,
+      "norm_label": "lwphonenumber"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L51",
+      "id": "lwcontactmanager_lwcontactmodel_lwphonenumber_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".hash()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L56",
+      "id": "lwcontactmanager_lwcontactmodel_lwphonenumber_hash",
+      "community": 1,
+      "norm_label": ".hash()"
+    },
+    {
+      "label": "CNContact",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L62",
+      "id": "lwcontactmanager_lwcontactmodel_cncontact",
+      "community": 1,
+      "norm_label": "cncontact"
+    },
+    {
+      "label": ".toLWContact()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L63",
+      "id": "lwcontactmanager_lwcontactmodel_cncontact_tolwcontact",
+      "community": 1,
+      "norm_label": ".tolwcontact()"
+    },
+    {
+      "label": "LWContactPickerView.swift",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L1",
+      "id": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactpickerview_swift",
+      "community": 3,
+      "norm_label": "lwcontactpickerview.swift"
+    },
+    {
+      "label": "LWContactPickerView",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L12",
+      "id": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview",
+      "community": 3,
+      "norm_label": "lwcontactpickerview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L19",
+      "id": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_init",
+      "community": 3,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "ContactRow",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L93",
+      "id": "lwcontactmanager_lwcontactpickerview_contactrow",
+      "community": 3,
+      "norm_label": "contactrow"
+    },
+    {
+      "label": "LWContactPickerView_Previews",
+      "file_type": "code",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L135",
+      "id": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_previews",
+      "community": 3,
+      "norm_label": "lwcontactpickerview_previews"
+    },
+    {
+      "label": "PreviewProvider",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "previewprovider",
+      "community": 3,
+      "norm_label": "previewprovider"
+    },
+    {
+      "label": "LWAddressBookService.m",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L1",
+      "id": "lwcontactmanager_classes_lwaddressbookservice_m",
+      "community": 5,
+      "norm_label": "lwaddressbookservice.m"
+    },
+    {
+      "label": "LWAddressBookService",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L12",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice",
+      "community": 5,
+      "norm_label": "lwaddressbookservice"
+    },
+    {
+      "label": "-serviceWithPrimaryLanguage",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L16",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_servicewithprimarylanguage",
+      "community": 5,
+      "norm_label": "-servicewithprimarylanguage"
+    },
+    {
+      "label": "-init",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L24",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_init",
+      "community": 5,
+      "norm_label": "-init"
+    },
+    {
+      "label": "-setupAddressBookWithPrimaryLanguage",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L32",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_setupaddressbookwithprimarylanguage",
+      "community": 5,
+      "norm_label": "-setupaddressbookwithprimarylanguage"
+    },
+    {
+      "label": "-requestAccess",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L71",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_requestaccess",
+      "community": 5,
+      "norm_label": "-requestaccess"
+    },
+    {
+      "label": "-loadContactsWithSearchTextsuccessBlock",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L82",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_loadcontactswithsearchtextsuccessblock",
+      "community": 5,
+      "norm_label": "-loadcontactswithsearchtextsuccessblock"
+    },
+    {
+      "label": "-isBlankString",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L117",
+      "id": "classes_lwaddressbookservice_lwaddressbookservice_isblankstring",
+      "community": 5,
+      "norm_label": "-isblankstring"
+    },
+    {
+      "label": "LWAddressBookService.h",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.h",
+      "source_location": "L1",
+      "id": "lwcontactmanager_classes_lwaddressbookservice_h",
+      "community": 15,
+      "norm_label": "lwaddressbookservice.h"
+    },
+    {
+      "label": "pinyin.h",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/Pinyin/pinyin.h",
+      "source_location": "L1",
+      "id": "lwcontactmanager_classes_pinyin_pinyin_h",
+      "community": 16,
+      "norm_label": "pinyin.h"
+    },
+    {
+      "label": "pinyin.m",
+      "file_type": "code",
+      "source_file": "LWContactManager/Classes/Pinyin/pinyin.m",
+      "source_location": "L1",
+      "id": "lwcontactmanager_classes_pinyin_pinyin_m",
+      "community": 17,
+      "norm_label": "pinyin.m"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_tests_tests_m",
+      "target": "tests_tests_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_teardown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_testexample",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwcontactmanager_lwappdelegate_m",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwappdelegate_lwappdelegate",
+      "target": "lwcontactmanager_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "example_lwcontactmanager_lwviewcontroller_m",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller_viewdidappear",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller_addressbookservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller_reloadsearchaddressbook",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWContactManager/LWViewController.m",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwviewcontroller_lwviewcontroller",
+      "target": "lwcontactmanager_lwviewcontroller_lwviewcontroller_searchtext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_contactsviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_legacycontactsviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_contactlistview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_myview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_chinesecontactsviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_printcontactdetails",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_customfilterviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "swift_exampleusage_swift",
+      "target": "swift_exampleusage_demonstratepinyinhelper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swift_exampleusage_contactsviewcontroller",
+      "target": "swift_exampleusage_contactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "swift_exampleusage_contactsviewcontroller_loadcontacts",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "swift_exampleusage_legacycontactsviewcontroller",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "swift_exampleusage_legacycontactsviewcontroller",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_searchcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "swift_exampleusage_legacycontactsviewcontroller_searchcontacts",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L157",
+      "weight": 1.0,
+      "source": "swift_exampleusage_chinesecontactsviewcontroller_loadchinesecontacts",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "swift_exampleusage_customfilterviewcontroller_loadcontactswithareacode",
+      "target": "swift_exampleusage_legacycontactsviewcontroller_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "swift_exampleusage_contactlistview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "swift_exampleusage_myview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactpickerview_contactrow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "swift_exampleusage_chinesecontactsviewcontroller",
+      "target": "swift_exampleusage_chinesecontactsviewcontroller_loadchinesecontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Swift/ExampleUsage.swift",
+      "source_location": "L191",
+      "weight": 1.0,
+      "source": "swift_exampleusage_customfilterviewcontroller",
+      "target": "swift_exampleusage_customfilterviewcontroller_loadcontactswithareacode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_pinyinhelper_swift",
+      "target": "lwcontactmanager_pinyinhelper_pinyinhelper",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "lwcontactmanager_pinyinhelper_pinyinhelper",
+      "target": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "lwcontactmanager_pinyinhelper_pinyinhelper",
+      "target": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletterfromc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/PinyinHelper.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletter",
+      "target": "lwcontactmanager_pinyinhelper_pinyinhelper_pinyinfirstletterfromc",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactservice_swift",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_requestaccess",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_matchessearchcriteria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_sortcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_init",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice_loadcontacts",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_requestaccess",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice_loadcontacts",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_matchessearchcriteria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactService.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactservice_lwcontactservice_loadcontacts",
+      "target": "lwcontactmanager_lwcontactservice_lwcontactservice_sortcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactManager.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmanager_swift",
+      "target": "lwcontactmanager_lwcontactmanager_lwcontactmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactManager.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmanager_lwcontactmanager",
+      "target": "lwcontactmanager_lwcontactmanager_lwcontactmanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactviewmodel_swift",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactviewmodel_swift",
+      "target": "lwcontactmanager_lwcontactviewmodel_authorizationstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_requestaccess",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_refresh",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_init",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel"
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_authorizationstatus",
+      "target": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_notdetermined",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_authorizationstatus",
+      "target": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_authorized",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "case_of",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_authorizationstatus",
+      "target": "lwcontactmanager_lwcontactviewmodel_authorizationstatus_denied",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_init",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_requestaccess",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactViewModel.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_refresh",
+      "target": "lwcontactmanager_lwcontactviewmodel_lwcontactviewmodel_loadcontacts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmodel_swift",
+      "target": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmodel_swift",
+      "target": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactmodel_swift",
+      "target": "lwcontactmanager_lwcontactmodel_cncontact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "target": "hashable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "target": "lwcontactmanager_lwcontactmodel_lwcontact_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "target": "lwcontactmanager_lwcontactmodel_lwcontact_hash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "target": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_cncontact_tolwcontact",
+      "target": "lwcontactmanager_lwcontactmodel_lwcontact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "target": "hashable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "target": "lwcontactmanager_lwcontactmodel_lwphonenumber_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "target": "lwcontactmanager_lwcontactmodel_lwphonenumber_hash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_cncontact_tolwcontact",
+      "target": "lwcontactmanager_lwcontactmodel_lwphonenumber",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactModel.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactmodel_cncontact",
+      "target": "lwcontactmanager_lwcontactmodel_cncontact_tolwcontact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactpickerview_swift",
+      "target": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactpickerview_swift",
+      "target": "lwcontactmanager_lwcontactpickerview_contactrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "lwcontactmanager_swift_sources_lwcontactmanager_lwcontactpickerview_swift",
+      "target": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_previews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview",
+      "target": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager_swift/Sources/LWContactManager/LWContactPickerView.swift",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "lwcontactmanager_lwcontactpickerview_lwcontactpickerview_previews",
+      "target": "previewprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwcontactmanager_classes_lwaddressbookservice_m",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_servicewithprimarylanguage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_setupaddressbookwithprimarylanguage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_requestaccess",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_loadcontactswithsearchtextsuccessblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWContactManager/Classes/LWAddressBookService.m",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "classes_lwaddressbookservice_lwaddressbookservice",
+      "target": "classes_lwaddressbookservice_lwaddressbookservice_isblankstring",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
